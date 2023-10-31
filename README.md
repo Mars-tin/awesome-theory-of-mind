@@ -36,31 +36,31 @@ Welcome to be a collaborator!
 ## Table of Contents
 
 - [1. ToM Community Resources](#1-tom-community-resources)
-  * [1.1 Workshops](#11-workshops)
-  * [1.2 Talks and Tutorials](#12-talks-and-tutorials)
-  * [1.3 Tools](#13-tools)
+   * [1.1 Workshops](#11-workshops)
+   * [1.2 Talks and Tutorials](#12-talks-and-tutorials)
+   * [1.3 Tools](#13-tools)
 - [2. Machine ToM Surveys and Position Papers](#2-machine-tom-surveys-and-position-papers)
 - [3. Cognitive Underpinnings of ToM](#3-cognitive-underpinnings-of-tom)
-  * [3.1 Definition and Importance of ToM in Human Cognition (Selected)](#31-definition-and-importance-of-tom-in-human-cognition--selected-)
-  * [3.2 Taxonomies of ToM and Mental States](#32-taxonomies-of-tom-and-mental-states)
+   * [3.1 Definition and Importance of ToM in Human Cognition (Selected)](#31-definition-and-importance-of-tom-in-human-cognition-selected)
+   * [3.2 Taxonomies of ToM and Mental States](#32-taxonomies-of-tom-and-mental-states)
 - [4. Computational Inquiry to ToM in Foundation Models](#4-computational-inquiry-to-tom-in-foundation-models)
-  * [4.1 Probing Intrinsic Mental States](#41-probing-intrinsic-mental-states)
-  * [4.1 Evidence for Understanding Extrinsic Mental States](#41-evidence-for-understanding-extrinsic-mental-states)
-  * [4.2 Counter-Evidence for Understanding Extrinsic Mental States](#42-counter-evidence-for-understanding-extrinsic-mental-states)
-- [4. ToM Benchmarks and Platforms](#4-tom-benchmarks-and-platforms)
+   * [4.1 Probing Intrinsic Mental States](#41-probing-intrinsic-mental-states)
+   * [4.1 Evidence for Understanding Extrinsic Mental States](#41-evidence-for-understanding-extrinsic-mental-states)
+   * [4.2 Counter-Evidence for Understanding Extrinsic Mental States](#42-counter-evidence-for-understanding-extrinsic-mental-states)
+- [4. ToM Benchmarks and Platforms ](#4-tom-benchmarks-and-platforms)
 - [5. Computational Modeling of ToM](#5-computational-modeling-of-tom)
-  * [5.1 Learning Latent Representation for ToM](#51-learning-latent-representation-for-tom)
-  * [5.2 Learning (Neural-)Symbolic Representation for ToM](#52-learning--neural--symbolic-representation-for-tom)
-  * [5.3 Prompting and In-Context Learning for ToM in LLMs](#53-prompting-and-in-context-learning-for-tom-in-llms)
-  * [5.4 Bayesian and (Inverse) Reinforcement Learning Based ToM Modeling](#54-bayesian-and--inverse--reinforcement-learning-based-tom-modeling)
-  * [5.5 Other ToM Modeling](#55-other-tom-modeling)
+   * [5.1 Learning Latent Representation for ToM](#51-learning-latent-representation-for-tom)
+   * [5.2 Learning (Neural-)Symbolic Representation for ToM](#52-learning-neural-symbolic-representation-for-tom)
+   * [5.3 Prompting and In-Context Learning for ToM in LLMs](#53-prompting-and-in-context-learning-for-tom-in-llms)
+   * [5.4 Bayesian and (Inverse) Reinforcement Learning Based ToM Modeling](#54-bayesian-and-inverse-reinforcement-learning-based-tom-modeling)
+   * [5.5 Other ToM Modeling](#55-other-tom-modeling)
 - [6. ToM Application](#6-tom-application)
-  * [6.1 Pragmatics and Instruction Generation/Following](#61-pragmatics-and-instruction-generation-following)
-  * [6.2 Dialogue Processing and Generation](#62-dialogue-processing-and-generation)
-  * [6.3 Language Acquisition](#63-language-acquisition)
-  * [6.4 Human-AI Interactions](#64-human-ai-interactions)
-  * [6.5 Explainable AI](#65-explainable-ai)
-  * [6.6 Healthcare](#66-healthcare)
+   * [6.1 Pragmatics and Instruction Generation/Following](#61-pragmatics-and-instruction-generationfollowing)
+   * [6.2 Dialogue Processing and Generation](#62-dialogue-processing-and-generation)
+   * [6.3 Language Acquisition](#63-language-acquisition)
+   * [6.4 Human-AI Interactions](#64-human-ai-interactions)
+   * [6.5 Explainable AI](#65-explainable-ai)
+   * [6.6 Healthcare](#66-healthcare)
 
 ## 1. ToM Community Resources
 
@@ -79,7 +79,7 @@ Welcome to be a collaborator!
 
 ## 2. Machine ToM Surveys and Position Papers
 
-- (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**]()
+- (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**](https://arxiv.org/abs/2310.19619)
 - (Preprint 2023) A Review on Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2303.11594)
 - (EMNLP Findings 2022) Language Models as Agent Models. [**[Paper]**](https://arxiv.org/abs/2212.01681)
 - (RO-MAN 2022) Understanding Intention for Machine Theory of Mind: A Position Paper. [**[Paper]**](https://dl.acm.org/doi/abs/10.1109/RO-MAN53752.2022.9900783)
@@ -359,7 +359,7 @@ Welcome to be a collaborator!
         <tr>
             <td>(ToM 2023) <a href="https://openreview.net/forum?id=hCwCfecQGd">Loophole</a></td>
             <td>NLG</td>
-            <td>H,</td>
+            <td>H</td>
             <td>-</td>
             <td>-</td>
             <td>-</td>
