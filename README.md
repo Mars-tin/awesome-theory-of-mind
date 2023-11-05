@@ -9,7 +9,10 @@ This illustration is generated using DALL·E 3
 ### Citation
 
 This is a curated list of related literature and resources for machine theory of mind (ToM) research.  
-**Last Update:** 21st Oct, 2023.
+**Last Update:** Nov 4th, 2023.
+
+> [!NOTE]  
+> In the next update, we will include additional links for code and data.
 
 If you find our work useful, please give us credit by citing:
 
@@ -29,9 +32,9 @@ If you find our work useful, please give us credit by citing:
 
 ### How To Contribute
 
-Welcome to be a collaborator! 
+Welcome to contribute to our paper list or be a collaborator! 
 - To add missing papers: Please create an issue or pull request, so the team can make the update.
-- To become a contributor: Please drop a email to [Martin](mailto:marstin@umich.edu).
+- To become a contributor: Please drop an email to [Martin](mailto:marstin@umich.edu).
 
 ## Table of Contents
 
@@ -76,6 +79,7 @@ Welcome to be a collaborator!
 ### 1.3 Tools
 
 - (ToM 2023) The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents. [**[Web]**](https://sites.google.com/view/socialai-school)
+- (Preprint 2023) SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. [**[Paper]**](https://arxiv.org/abs/2310.11667) [**[Web]**](https://www.sotopia.world)
 
 ## 2. Machine ToM Surveys and Position Papers
 
@@ -676,6 +680,26 @@ Welcome to be a collaborator!
             <td>-</td>
             <td>✔️</td>
         </tr>
+        <tr>
+            <td>(EMNLP 2023) <a href="https://arxiv.org/abs/2310.15421">FANToM</a></td>
+            <td>QA</td>
+            <td>T</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>✔️</td>
+            <td>-</td>
+            <td>✔️</td>
+            <td>✔️</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>✔️</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
     </tbody>
 </table>
 
@@ -703,6 +727,7 @@ Welcome to be a collaborator!
 - (Preprint 2023) Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.06983)
 - (Preprint 2023) CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. [**[Paper]**](https://arxiv.org/abs/2303.17760)
 - (Preprint 2023) Boosting Theory-of-Mind Performance in Large Language Models via Prompting. [**[Paper]**](https://arxiv.org/abs/2304.11490)
+- (Preprint 2023) Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [**[Paper]**](https://arxiv.org/abs/2309.17277)
 
 ### 5.4 Bayesian and (Inverse) Reinforcement Learning Based ToM Modeling
 
