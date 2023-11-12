@@ -8,10 +8,10 @@ This illustration is generated using DALL·E 3
 
 ### Citation
 
-This is a curated list of related literature and resources for machine theory of mind (ToM) research.  
+This is a curated list of related literature and resources for machine theory of mind (ToM) research.
 **Last Update:** Nov 4th, 2023.
 
-> [!NOTE]  
+> [!NOTE]
 > In the next update, we will include additional links for code and data.
 
 If you find our work useful, please give us credit by citing:
@@ -32,7 +32,7 @@ If you find our work useful, please give us credit by citing:
 
 ### How To Contribute
 
-Welcome to contribute to our paper list or be a collaborator! 
+Welcome to contribute to our paper list or be a collaborator!
 - To add missing papers: Please create an issue or pull request, so the team can make the update.
 - To become a contributor: Please drop an email to [Martin](mailto:marstin@umich.edu).
 
@@ -129,6 +129,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 4.2 Counter-Evidence for Understanding Extrinsic Mental States
 
+- (EMNLP 2023) FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions. [**[Paper]**](https://arxiv.org/abs/2310.15421)
 - (Preprint 2023) Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2305.14763)
 - (Preprint 2023) Limitation of Theory of Mind In Large Language Model: Anthropomorphize Religous Figure. [**[Paper]**](https://osf.io/preprints/psyarxiv/zu3rw/)
 - (Preprint 2023) Does ChatGPT have Theory of Mind? [**[Paper]**](https://arxiv.org/abs/2305.14020)
@@ -138,7 +139,7 @@ Welcome to contribute to our paper list or be a collaborator!
 - (Preprint 2022) Large Language Models Are Not Zero-shot Communicators. [**[Paper]**](https://arxiv.org/abs/2210.14986)
 - (EMNLP 2022) Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs. [**[Paper]**](https://arxiv.org/abs/2210.13312)
 
-## 4. ToM Benchmarks and Platforms 
+## 4. ToM Benchmarks and Platforms
 
 <p>
     A taxonomized review of existing benchmarks for machine ToM and their settings under ATOMS. We further break <strong>beliefs</strong> into first-order beliefs (1st) and second-order beliefs or beyond (2nd+); and break <strong>intentions</strong> into <u>Action</u> intentions and <u>Communicative</u> intentions. <strong>Tasks</strong> are divided into <u>Inference</u>, <u>Question Answering</u>, <u>Natural Language Generation</u>, <u>MultiAgent Collaboration</u>, and <u>MultiAgent Competition</u>. <strong>Input</strong> modalities consist of <u>Text</u> (Human, AI, or Template) and <u>Nonlinguistic</u> ones. The latter further breaks into <u>Cartoon</u>, Natural <u>Images</u>, <u>Chess</u>, <u>2D Grid</u> World, and 3D <u>Simulation</u>. The <strong>Situatedness</strong> is divided into None, Passive <u>Perceiver</u>, and Active <u>Interactor</u>. <strong>Symmetricity</strong> refers to whether the tested agent is co-situated and engaged in mutual interactions with other ToM agents.
@@ -786,3 +787,7 @@ Welcome to contribute to our paper list or be a collaborator!
 ### 6.6 Healthcare
 
 - (ToM 2023) Discovering User Types: Mapping User Traits by Task-Specific Behaviors in Reinforcement Learning. [**[Paper]**](https://arxiv.org/abs/2307.08169)
+
+### 6.7 Privacy
+
+- (Preprint 2023) Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. [**[Paper]**](https://arxiv.org/abs/2310.17884)
