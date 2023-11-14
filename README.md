@@ -64,6 +64,7 @@ Welcome to contribute to our paper list or be a collaborator!
    * [6.4 Human-AI Interactions](#64-human-ai-interactions)
    * [6.5 Explainable AI](#65-explainable-ai)
    * [6.6 Healthcare](#66-healthcare)
+   * [6.7 Privacy](#67-privacy)
 
 ## 1. ToM Community Resources
 
