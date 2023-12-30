@@ -28,7 +28,7 @@ If you find our work useful, please give us credit by citing:
 ### Contributors
 
 - **Main Contributors:** [Martin Ziqiao Ma](http://ziqiaoma.com/)
-- **Active Contributors:** [Jacob Sansom](https://jhsansom.github.io/), [Run Peng](https://sites.google.com/view/run-peng/home), [Pony Zhang](https://www.ponyzhang.me/)
+- **Active Contributors:** [Jacob Sansom](https://jhsansom.github.io/), [Run Peng](https://roihn.github.io/), [Pony Zhang](https://www.ponyzhang.me/)
 
 ### How To Contribute
 
@@ -79,12 +79,12 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 1.3 Tools
 
-- (ToM 2023) The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents. [**[Web]**](https://sites.google.com/view/socialai-school)
-- (Preprint 2023) SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. [**[Paper]**](https://arxiv.org/abs/2310.11667) [**[Web]**](https://www.sotopia.world)
+- (ToM 2023) The SocialAI School: Insights from Developmental Psychology Towards Artificial Socio-Cultural Agents. [**[Paper]**](https://arxiv.org/abs/2307.07871)[**[Web]**](https://sites.google.com/view/socialai-school)
+- (Preprint 2023) SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. [**[Paper]**](https://arxiv.org/abs/2310.11667)[**[Web]**](https://www.sotopia.world)
 
 ## 2. Machine ToM Surveys and Position Papers
 
-- (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**](https://arxiv.org/abs/2310.19619)
+- (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**](https://arxiv.org/abs/2310.19619)[**[Data]**](https://huggingface.co/datasets/sled-umich/2D-ATOMS)
 - (Preprint 2023) A Review on Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2303.11594)
 - (EMNLP Findings 2022) Language Models as Agent Models. [**[Paper]**](https://arxiv.org/abs/2212.01681)
 - (RO-MAN 2022) Understanding Intention for Machine Theory of Mind: A Position Paper. [**[Paper]**](https://dl.acm.org/doi/abs/10.1109/RO-MAN53752.2022.9900783)
@@ -117,27 +117,27 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 4.1 Probing Intrinsic Mental States
 
-- (EACL 2023) Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models. [**[Paper]**](https://aclanthology.org/2023.eacl-main.199/)
-- (EMNLP Findings 2021) Tiered Reasoning for Intuitive Physics: Toward Verifiable Commonsense Language Understanding. [**[Paper]**](https://aclanthology.org/2021.findings-emnlp.422/)
-- (ACL 2021) Implicit Representations of Meaning in Neural Language Models. [**[Paper]**](https://aclanthology.org/2021.acl-long.143/)
+- (EACL 2023) Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models. [**[Paper]**](https://aclanthology.org/2023.eacl-main.199/)[**[Code]**](https://github.com/peterbhase/SLAG-Belief-Updating)
+- (EMNLP Findings 2021) Tiered Reasoning for Intuitive Physics: Toward Verifiable Commonsense Language Understanding. [**[Paper]**](https://aclanthology.org/2021.findings-emnlp.422/)[**[Data]**](https://huggingface.co/datasets/sled-umich/TRIP)
+- (ACL 2021) Implicit Representations of Meaning in Neural Language Models. [**[Paper]**](https://aclanthology.org/2021.acl-long.143/)[**[Code]**](https://github.com/belindal/state-probes)
 
 ### 4.1 Evidence for Understanding Extrinsic Mental States
 
 - (Preprint 2023) Unveiling Theory of Mind in Large Language Models: A Parallel to Single Neurons in the Human Brain. [**[Paper]**](https://arxiv.org/abs/2309.01660)
 - (Preprint 2023) Sparks of Artificial General Intelligence: Early experiments with GPT-4. [**[Paper]**](https://arxiv.org/abs/2303.12712)
-- (Preprint 2023) Theory of Mind Might Have Spontaneously Emerged in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2302.02083)
-- (EMNLP Findings 2021) Effectiveness of Pre-training for Few-shot Intent Classification. [**[Paper]**](https://arxiv.org/abs/2109.05782)
+- (Preprint 2023) Theory of Mind Might Have Spontaneously Emerged in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2302.02083)[**[Web]**](https://osf.io/csdhb/)[**[Code]**](https://colab.research.google.com/drive/1ZRtmw87CdA4xp24DNS_Ik_uA2ypaRnoU)
+- (EMNLP Findings 2021) Effectiveness of Pre-training for Few-shot Intent Classification. [**[Paper]**](https://arxiv.org/abs/2109.05782)[**[Code]**](https://github.com/fanolabs/IntentBert)
 
 ### 4.2 Counter-Evidence for Understanding Extrinsic Mental States
 
-- (EMNLP 2023) FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions. [**[Paper]**](https://arxiv.org/abs/2310.15421)
+- (EMNLP 2023) FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions. [**[Paper]**](https://arxiv.org/abs/2310.15421)[**[Code]**](https://github.com/skywalker023/fantom)
 - (Preprint 2023) Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2305.14763)
 - (Preprint 2023) Limitation of Theory of Mind In Large Language Model: Anthropomorphize Religous Figure. [**[Paper]**](https://osf.io/preprints/psyarxiv/zu3rw/)
 - (Preprint 2023) Does ChatGPT have Theory of Mind? [**[Paper]**](https://arxiv.org/abs/2305.14020)
 - (Preprint 2023) Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks. [**[Paper]**](https://arxiv.org/abs/2302.08399)
 - (AI Review 2023) Mind the Gap: Challenges of Deep Learning Approaches to Theory of Mind. [**[Paper]**](https://link.springer.com/article/10.1007/s10462-023-10401-x)
 - (Preprint 2022) Do Large Language Models Know what Humans Know? [**[Paper]**](https://arxiv.org/abs/2209.01515)
-- (Preprint 2022) Large Language Models Are Not Zero-shot Communicators. [**[Paper]**](https://arxiv.org/abs/2210.14986)
+- (Preprint 2022) Large Language Models Are Not Zero-shot Communicators. [**[Paper]**](https://arxiv.org/abs/2210.14986)[**[Web]**](https://lauraruis.github.io/2022/09/29/comm.html)[**[Code]**](https://github.com/LauraRuis/do-pigs-fly)[**[Data]**](https://huggingface.co/datasets/UCL-DARK/ludwig)
 - (EMNLP 2022) Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs. [**[Paper]**](https://arxiv.org/abs/2210.13312)
 
 ## 4. ToM Benchmarks and Platforms
@@ -149,6 +149,7 @@ Welcome to contribute to our paper list or be a collaborator!
     <thead>
         <tr >
             <th rowspan="3" style="text-align: center;">Benchmarks and Task Formulations</th>
+            <th rowspan="3" style="text-align: center;">Resources (Code, Data, etc.)</th>
             <th colspan="3" style="text-align: center;">Tested Agent</th>
             <th colspan="4" style="text-align: center;">Situatedness</th>
             <th colspan="9" style="text-align: center;">ATOMS Mental States</th>
@@ -184,6 +185,7 @@ Welcome to contribute to our paper list or be a collaborator!
         <!-- Example rows: -->
         <tr>
             <td>(Preprint 2021) <a href="https://philarchive.org/rec/COHERT">Epistemic Reasoning</a></td>
+            <td>-</td>
             <td>Infer</td>
             <td>T</td>
             <td>-</td>
@@ -204,6 +206,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP 2018) <a href="https://arxiv.org/abs/1808.09352">ToMi</a></td>
+            <td><a href="https://github.com/facebookresearch/ToMi">Code</a></td>
             <td>QA</td>
             <td>T</td>
             <td>-</td>
@@ -224,6 +227,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP Findings 2023) <a href="https://openreview.net/forum?id=CS62jXziqB">Hi-ToM</a></td>
+            <td><a href="https://github.com/ying-hui-he/hi-tom_dataset">Code</a></td>
             <td>QA</td>
             <td>T</td>
             <td>-</td>
@@ -244,6 +248,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP Findings 2023) <a href="https://arxiv.org/abs/2305.03353">MindGames</a></td>
+            <td><a href="https://github.com/sileod/llm-theory-of-mind">Code</a>, <a href="https://huggingface.co/datasets/sileod/mindgames">Data</a></td>
             <td>Infer</td>
             <td>T</td>
             <td>-</td>
@@ -264,6 +269,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ToM 2023) <a href="https://openreview.net/forum?id=KxvXjtyuYl">Selective Encoding</a></td>
+            <td>-</td>
             <td>QA</td>
             <td>T</td>
             <td>-</td>
@@ -284,6 +290,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(Preprint 2023) <a href="https://arxiv.org/abs/2305.14763">Adv-CSFB</a></td>
+            <td>-</td>
             <td>QA</td>
             <td>H</td>
             <td>-</td>
@@ -304,6 +311,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP 2010) <a href="https://aclanthology.org/D10-1074/">ConvEntail</a></td>
+            <td><a href="https://github.com/lairmsu/ConversationalEntailment">Data</a></td>
             <td>Infer</td>
             <td>H</td>
             <td>-</td>
@@ -324,6 +332,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP 2019) <a href="https://arxiv.org/abs/1904.09728">SocialIQA</a></td>
+            <td><a href="https://maartensap.com/social-iqa/">Data</a></td>
             <td>QA</td>
             <td>H</td>
             <td>-</td>
@@ -345,6 +354,7 @@ Welcome to contribute to our paper list or be a collaborator!
         <tr>
             <td>(LREC 2022) <a href="https://aclanthology.org/2022.lrec-1.262/">BeSt</a></td>
             <td>-</td>
+            <td>-</td>
             <td>H</td>
             <td>-</td>
             <td>-</td>
@@ -364,6 +374,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ToM 2023) <a href="https://openreview.net/forum?id=hCwCfecQGd">Loophole</a></td>
+            <td>-</td>
             <td>NLG</td>
             <td>H</td>
             <td>-</td>
@@ -384,6 +395,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ACL Findings 2023) <a href="https://aclanthology.org/2023.findings-acl.663/">FauxPas-EAI</a></td>
+            <td>-</td>
             <td>QA</td>
             <td>H,AI</td>
             <td>-</td>
@@ -404,6 +416,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
             <tr>
             <td>(Preprint 2023) <a href="https://arxiv.org/abs/2305.05390">COKE</a></td>
+            <td>-</td>
             <td>NLG</td>
             <td>AI</td>
             <td>-</td>
@@ -424,6 +437,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(Preprint 2022) <a href="https://arxiv.org/abs/2211.04684">ToM-in-AMC</a></td>
+            <td><a href="https://github.com/Gorov/tom_in_amc">Data</a></td>
             <td>Infer</td>
             <td>H</td>
             <td>-</td>
@@ -444,6 +458,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ACL 2023) <a href="https://arxiv.org/abs/2212.10060">G4C</a></td>
+            <td>-</td>
             <td>NLG</td>
             <td>H,AI</td>
             <td>-</td>
@@ -464,6 +479,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(Preprint 2016) <a href="https://arxiv.org/abs/1612.01175">VisualBeliefs</a></td>
+            <td><a href="https://people.csail.mit.edu/bce/mistaken/">Web</a></td>
             <td>Infer</td>
             <td>-</td>
             <td>Cartoon</td>
@@ -484,6 +500,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(AAAI 2016) <a href="https://ojs.aaai.org/index.php/AAAI/article/view/9881">Triangle COPA</a></td>
+            <td><a href="https://github.com/asgordon/TriangleCOPA">Data</a></td>
             <td>QA</td>
             <td>H</td>
             <td>Cartoon</td>
@@ -504,6 +521,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(NAACL 2022) <a href="https://aclanthology.org/2022.naacl-main.108/">MSED</a></td>
+            <td><a href="https://github.com/MSEDdataset/MSED">Data</a></td>
             <td>Infer</td>
             <td>H</td>
             <td>Images</td>
@@ -524,6 +542,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(NeurIPS 2021) <a href="https://arxiv.org/abs/2102.11938">BIB</a></td>
+            <td><a href="https://github.com/kanishkg/bib-baselines">Code</a></td>
             <td>Infer</td>
             <td>-</td>
             <td>2D Grid</td>
@@ -544,6 +563,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ICML 2021) <a href="https://arxiv.org/abs/2102.12321">AGENT</a></td>
+            <td><a href="https://github.com/MicroSTM/AGENT-synthesis">Code</a></td>
             <td>Infer</td>
             <td>-</td>
             <td>3D Sim.</td>
@@ -564,6 +584,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ToM 2023) <a href="https://openreview.net/forum?id=X1DUJqJijf">RBC</a></td>
+            <td>-</td>
             <td>Compete</td>
             <td>-</td>
             <td>Chess</td>
@@ -584,6 +605,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ICML 2018) <a href="https://arxiv.org/abs/1802.07740">MToM</a></td>
+            <td><a href="https://github.com/CILAB-MA/Machine_ToM">Code</a></td>
             <td>Infer</td>
             <td>-</td>
             <td>2D Grid</td>
@@ -604,6 +626,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(ICML 2022) <a href="https://proceedings.mlr.press/v162/sclar22a.html">SymmToM</a></td>
+            <td><a href="https://github.com/msclar/symmtom">Code</a></td>
             <td>Collab</td>
             <td>-</td>
             <td>2D Grid</td>
@@ -624,6 +647,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
             <tr>
             <td>(EMNLP 2023) <a href="https://arxiv.org/abs/2310.10701">Search & Rescue</a></td>
+            <td>-</td>
             <td>Collab</td>
             <td>AI</td>
             <td>2D Grid</td>
@@ -644,6 +668,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP 2021) <a href="https://arxiv.org/abs/2109.06275">MindCraft</a></td>
+            <td><a href="https://github.com/sled-group/MindCraft">Code</a></td>
             <td>Infer</td>
             <td>H</td>
             <td>3D Sim.</td>
@@ -664,6 +689,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(IJCAI 2023) <a href="https://arxiv.org/abs/2305.11271">CPA</a></td>
+            <td><a href="https://github.com/sled-group/collab-plan-acquisition">Code</a></td>
             <td>Infer</td>
             <td>H</td>
             <td>3D Sim.</td>
@@ -684,6 +710,7 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
         <tr>
             <td>(EMNLP 2023) <a href="https://arxiv.org/abs/2310.15421">FANToM</a></td>
+            <td><a href="https://github.com/skywalker023/fantom/tree/main/task">Code</a></td>
             <td>QA</td>
             <td>T</td>
             <td>-</td>
@@ -711,25 +738,25 @@ Welcome to contribute to our paper list or be a collaborator!
 ### 5.1 Learning Latent Representation for ToM
 
 - (IJCAI 2023) Towards Collaborative Plan Acquisition through Theory of Mind Modeling in Situated Dialogue. [**[Paper]**](https://arxiv.org/abs/2305.11271)
-- (EMNLP 2021) MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks. [**[Paper]**](https://arxiv.org/abs/2109.06275)
+- (EMNLP 2021) MindCraft: Theory of Mind Modeling for Situated Dialogue in Collaborative Tasks. [**[Paper]**](https://arxiv.org/abs/2109.06275)[**[Code]**](https://github.com/sled-group/MindCraft)
 - (RO-MAN 2021) Deep Interpretable Models of Theory of Mind. [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9515505)
-- (EMNLP 2020) RMM: A Recursive Mental Model for Dialog Navigation. [**[Paper]**](https://arxiv.org/abs/2005.00728)
-- (ICML 2018) Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/1802.07740)
+- (EMNLP 2020) RMM: A Recursive Mental Model for Dialog Navigation. [**[Paper]**](https://arxiv.org/abs/2005.00728)[**[Code]**](https://github.com/HomeroRR/rmm)
+- (ICML 2018) Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/1802.07740)[**[Code]**](https://github.com/CILAB-MA/Machine_ToM)
 
 ### 5.2 Learning (Neural-)Symbolic Representation for ToM
 
-- (ACL 2023) Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker. [**[Paper]**](https://arxiv.org/abs/2306.00924)
-- (ToM 2023) The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs. [**[Paper]**](https://openreview.net/forum?id=UNy5AZkBjy)
+- (ACL 2023) Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker. [**[Paper]**](https://arxiv.org/abs/2306.00924)[**[Code]**](https://github.com/msclar/symbolictom)
+- (ToM 2023) The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs. [**[Paper]**](https://openreview.net/forum?id=UNy5AZkBjy)[**[Code]**](https://github.com/msclar/symbolictom)
 
 
 ### 5.3 Prompting and In-Context Learning for ToM in LLMs
 
 - (EMNLP 2023) Theory of Mind for Multi-Agent Collaboration via Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.10701)
 - (Preprint 2023) How FaR Are Large Language Models From Agents with Theory-of-Mind? [**[Paper]**](https://arxiv.org/abs/2310.03051)
-- (Preprint 2023) Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.06983)
-- (Preprint 2023) CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. [**[Paper]**](https://arxiv.org/abs/2303.17760)
-- (Preprint 2023) Boosting Theory-of-Mind Performance in Large Language Models via Prompting. [**[Paper]**](https://arxiv.org/abs/2304.11490)
-- (Preprint 2023) Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [**[Paper]**](https://arxiv.org/abs/2309.17277)
+- (Preprint 2023) Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.06983)[**[Code]**](https://github.com/plastic-labs/voe-paper-eval)
+- (Preprint 2023) CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society. [**[Paper]**](https://arxiv.org/abs/2303.17760)[**[Code]**](https://github.com/camel-ai/camel)
+- (Preprint 2023) Boosting Theory-of-Mind Performance in Large Language Models via Prompting. [**[Paper]**](https://arxiv.org/abs/2304.11490)[**[Data]**](https://github.com/shrahimim/Boosting-Theory-of-Mind-in-LLMs-with-Prompting)
+- (Preprint 2023) Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4. [**[Paper]**](https://arxiv.org/abs/2309.17277)[**[Code]**](https://github.com/CR-Gjx/Suspicion-Agent)
 
 ### 5.4 Bayesian and (Inverse) Reinforcement Learning Based ToM Modeling
 
@@ -738,11 +765,11 @@ Welcome to contribute to our paper list or be a collaborator!
 - (ToM 2023) Between Prudence and Paranoia: Theory of Mind Gone Right, and Wrong. [**[Paper]**](https://openreview.net/forum?id=gB9zrEjhZD)
 - (ToM 2023) Emergent Deception and Skepticism via Theory of Mind. [**[Paper]**](https://openreview.net/forum?id=yd8VOEpw8h)
 - (ToM 2023) How To Make Social Decisions in a Heterogeneous Society? [**[Paper]**](https://openreview.net/forum?id=L2nTAkmv83)
-- (ICML 2022) Symmetric Machine Theory of Mind. [**[Paper]**](https://proceedings.mlr.press/v162/sclar22a.html)
-- (ICML 2021) Few-shot Language Coordination by Modeling Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2107.05697)
-- (CogSci 2020) Improving Multi-Agent Cooperation using Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2007.15703)
+- (ICML 2022) Symmetric Machine Theory of Mind. [**[Paper]**](https://proceedings.mlr.press/v162/sclar22a.html)[**[Code]**](https://github.com/msclar/symmtom)
+- (ICML 2021) Few-shot Language Coordination by Modeling Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2107.05697)[**[Code]**](https://github.com/CLAW-Lab/ToM)
+- (CogSci 2020) Improving Multi-Agent Cooperation using Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2007.15703)[**[Code]**](https://github.com/terryyylim/ToM-gameplaying-POMDP)
 - (Preprint 2019) Modeling Theory of Mind in Multi-Agent Games Using Adaptive Feedback Control. [**[Paper]**](https://arxiv.org/abs/1905.13225)
-- (EmeComm 2019) Emergence of Theory of Mind Collaboration in Multiagent Systems. [**[Paper]**](https://arxiv.org/abs/2110.00121)
+- (EmeComm 2019) Emergence of Theory of Mind Collaboration in Multiagent Systems. [**[Paper]**](https://arxiv.org/abs/2110.00121)[**[Code]**](https://github.com/MarkFzp/ToM-Collaboration)
 - (Current Opinion in Behavioral Sciences 2019) Theory of Mind as Inverse Reinforcement Learning. [**[Paper]**](https://www.sciencedirect.com/science/article/abs/pii/S2352154618302055)
 
 ### 5.5 Other ToM Modeling
@@ -751,7 +778,7 @@ Welcome to contribute to our paper list or be a collaborator!
 - (ToM 2023) Inferring the Future by Imagining the Past. [**[Paper]**](https://openreview.net/forum?id=bBZ3VsPJM9)
 - (ToM 2023) Inferring the Goals of Communicating Agents from Actions and Instructions. [**[Paper]**](https://openreview.net/forum?id=TBWhdZUOwO)
 - (RSS 2015) Grounding English Commands to Reward Functions. [**[Paper]**](https://www.roboticsproceedings.org/rss11/p18.pdf)
-- (CogSci 2011) Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution. [**[Paper]**](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf)
+- (CogSci 2011) Bayesian Theory of Mind: Modeling Joint Belief-Desire Attribution. [**[Paper]**](http://web.mit.edu/9.s915/www/classes/theoryOfMind.pdf)[**[Web]**](https://pemami4911.github.io/paper-summaries/agi/2016/01/18/review-btom.html)
 
 
 ## 6. ToM Application
@@ -760,21 +787,21 @@ Welcome to contribute to our paper list or be a collaborator!
 
 - (ToM 2023) Towards a Better Rational Speech Act Framework for Context-aware Modeling of Metaphor Understanding. [**[Paper]**](https://openreview.net/forum?id=x4YpVxafEc)
 - (ACL Findings 2023) Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models. [**[Paper]**](https://arxiv.org/abs/2301.05149)
-- (ACL 2022) Learning to Mediate Disparities Towards Pragmatic Communication. [**[Paper]**](https://arxiv.org/abs/2203.13685)
-- (ICML 2021) Few-shot Language Coordination by Modeling Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2107.05697)
+- (ACL 2022) Learning to Mediate Disparities Towards Pragmatic Communication. [**[Paper]**](https://arxiv.org/abs/2203.13685)[**[Code]**](https://github.com/sled-group/Pragmatic-Rational-Speaker)
+- (ICML 2021) Few-shot Language Coordination by Modeling Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2107.05697)[**[Code]**](https://github.com/CLAW-Lab/ToM)
 - (Science 2012) Predicting Pragmatic Reasoning in Language Games. [**[Paper]**](https://www.science.org/doi/10.1126/science.1218633)
 
 ### 6.2 Dialogue Processing and Generation
 
 - (ToM 2023) MindDial: Belief Dynamics Tracking with Theory-of-Mind Modeling for Neural Dialogue Generation. [**[Paper]**](https://openreview.net/forum?id=YYtHY6a0Jf)
-- (ACL Findings 2023) Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind. [**[Paper]**](https://aclanthology.org/2023.findings-acl.258/)
+- (ACL Findings 2023) Speaking the Language of Your Listener: Audience-Aware Adaptation via Plug-and-Play Theory of Mind. [**[Paper]**](https://aclanthology.org/2023.findings-acl.258/)[**[Code]**](https://github.com/nicofirst1/speaker-adaptation)
 - (SIGDIAL 2022) Towards Socially Intelligent Agents with Mental State Transition and Human Utility. [**[Paper]**](https://arxiv.org/abs/2103.07011)
-- (EMNLP 2020) RMM: A Recursive Mental Model for Dialog Navigation. [**[Paper]**](https://arxiv.org/abs/2005.00728)
+- (EMNLP 2020) RMM: A Recursive Mental Model for Dialog Navigation. [**[Paper]**](https://arxiv.org/abs/2005.00728)[**[Code]**](https://github.com/HomeroRR/rmm)
 
 ### 6.3 Language Acquisition
 
-- (ICLR 2023) Computational Language Acquisition with Theory of Mind. [**[Paper]**](https://openreview.net/forum?id=C2ulri4duIs)
-- (Preprint 2023) Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2306.09299)
+- (ICLR 2023) Computational Language Acquisition with Theory of Mind. [**[Paper]**](https://openreview.net/forum?id=C2ulri4duIs)[**[Code]**](https://github.com/neulab/ToM-Language-Acquisition)
+- (Preprint 2023) Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2306.09299)[**[Code]**](https://github.com/swarnaHub/ExplanationIntervention)
 
 ### 6.4 Human-AI Interactions
 
@@ -791,4 +818,4 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 6.7 Privacy
 
-- (Preprint 2023) Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. [**[Paper]**](https://arxiv.org/abs/2310.17884)
+- (Preprint 2023) Can LLMs Keep a Secret? Testing Privacy Implications of Language Models via Contextual Integrity Theory. [**[Paper]**](https://arxiv.org/abs/2310.17884)[**[Code]**](https://github.com/skywalker023/confAIde)
