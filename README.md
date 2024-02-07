@@ -804,6 +804,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 - (ToM 2023) Preference Proxies: Evaluating Large Language Models in Capturing Human Preferences in Human-AI Tasks. [**[Paper]**](https://openreview.net/forum?id=m6EpkjUUBR)
 - (CHI 2021) Towards Mutual Theory of Mind in Human-AI Interaction: How Language Reflects What Students Perceive About a Virtual Teaching Assistant. [**[Paper]**](https://dl.acm.org/doi/10.1145/3411764.3445645)
+- (Springer 2002) Theory of Mind for a Humanoid Robot [**[Paper]**](https://doi.org/10.1023/A:1013298507114)
 
 ### 6.5 Explainable AI
 
