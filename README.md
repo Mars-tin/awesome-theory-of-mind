@@ -54,6 +54,8 @@ Welcome to contribute to our paper list or be a collaborator!
     - [4.1 Evidence for Understanding Extrinsic Mental States](#41-evidence-for-understanding-extrinsic-mental-states)
     - [4.2 Counter-Evidence for Understanding Extrinsic Mental States](#42-counter-evidence-for-understanding-extrinsic-mental-states)
   - [4. ToM Benchmarks and Platforms](#4-tom-benchmarks-and-platforms)
+    - [4.1 Benchmarks from original Survey](#41-benchmarks-from-original-survey)
+    - [4.2 New Benchmarks](#42-new-benchmarks)
   - [5. Computational Modeling of ToM](#5-computational-modeling-of-tom)
     - [5.1 Learning Latent Representation for ToM](#51-learning-latent-representation-for-tom)
     - [5.2 Learning (Neural-)Symbolic Representation for ToM](#52-learning-neural-symbolic-representation-for-tom)
@@ -147,6 +149,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ## 4. ToM Benchmarks and Platforms
 
+### 4.1 Benchmarks from original Survey 
 <p>
     A taxonomized review of existing benchmarks for machine ToM and their settings under ATOMS. We further break <strong>beliefs</strong> into first-order beliefs (1st) and second-order beliefs or beyond (2nd+); and break <strong>intentions</strong> into <u>Action</u> intentions and <u>Communicative</u> intentions. <strong>Tasks</strong> are divided into <u>Inference</u>, <u>Question Answering</u>, <u>Natural Language Generation</u>, <u>MultiAgent Collaboration</u>, and <u>MultiAgent Competition</u>. <strong>Input</strong> modalities consist of <u>Text</u> (Human, AI, or Template) and <u>Nonlinguistic</u> ones. The latter further breaks into <u>Cartoon</u>, Natural <u>Images</u>, <u>Chess</u>, <u>2D Grid</u> World, and 3D <u>Simulation</u>. The <strong>Situatedness</strong> is divided into None, Passive <u>Perceiver</u>, and Active <u>Interactor</u>. <strong>Symmetricity</strong> refers to whether the tested agent is co-situated and engaged in mutual interactions with other ToM agents.
 </p>
@@ -736,6 +739,10 @@ Welcome to contribute to our paper list or be a collaborator!
         </tr>
     </tbody>
 </table>
+
+### 4.2 New Benchmarks
+- (ACL 2024) ToMBench: Benchmarking Theory of Mind in Large Language Models [**[Paper]**](https://aclanthology.org/2024.acl-long.847/)
+- (ACL 2024) OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models [**[Paper]**](https://aclanthology.org/2024.acl-long.466/)
 
 
 ## 5. Computational Modeling of ToM
