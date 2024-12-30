@@ -747,7 +747,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 
 ### 5.3 Prompting and In-Context Learning for ToM in LLMs
-
+- (EMNLP 2024) A Notion of Complexity for Theory of Mind via Discrete World Models [**[Paper]**](https://aclanthology.org/2024.findings-emnlp.167/)
 - (EMNLP 2023) Theory of Mind for Multi-Agent Collaboration via Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.10701)
 - (Preprint 2023) How FaR Are Large Language Models From Agents with Theory-of-Mind? [**[Paper]**](https://arxiv.org/abs/2310.03051)
 - (Preprint 2023) Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2310.06983)[**[Code]**](https://github.com/plastic-labs/voe-paper-eval)
