@@ -134,6 +134,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 4.2 Counter-Evidence for Understanding Extrinsic Mental States
 
+- (CONLL 2023) Theory of Mind in Large Language Models: Examining Performance of 11 State-of-the-Art models vs. Children Aged 7-10 on Advanced Tests [**[Paper]**](https://aclanthology.org/2023.conll-1.25.pdf)
 - (EMNLP 2023) FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions. [**[Paper]**](https://arxiv.org/abs/2310.15421)[**[Code]**](https://github.com/skywalker023/fantom)
 - (Preprint 2023) Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models. [**[Paper]**](https://arxiv.org/abs/2305.14763)
 - (Preprint 2023) Limitation of Theory of Mind In Large Language Model: Anthropomorphize Religous Figure. [**[Paper]**](https://osf.io/preprints/psyarxiv/zu3rw/)
