@@ -87,6 +87,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ## 2. Machine ToM Surveys and Position Papers
 
+- (EMNLP Main 2024) Large Language Models: The Need for Nuance in Current Debates and a Pragmatic Perspective on Understanding [**[Paper]**](https://aclanthology.org/2023.emnlp-main.779/)
 - (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**](https://arxiv.org/abs/2310.19619)[**[Data]**](https://huggingface.co/datasets/sled-umich/2D-ATOMS)
 - (Preprint 2023) A Review on Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2303.11594)
 - (EMNLP Findings 2022) Language Models as Agent Models. [**[Paper]**](https://arxiv.org/abs/2212.01681)
