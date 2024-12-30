@@ -1,4 +1,4 @@
-# Reading List: Recent Advances in Machine Theory of Mind
+# Reading List: Advances in Machine Theory of Mind
 
 
 ![Illustration](figs/avatar.png)
@@ -9,7 +9,7 @@ This illustration is generated using DALL·E 3
 ### Citation
 
 This is a curated list of related literature and resources for machine theory of mind (ToM) research.
-**Last Update:** Dec 29th, 2023.
+**Last Update:** Dec 30th, 2024.
 
 If you find our work useful, please give us credit by citing:
 
@@ -35,7 +35,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ## Table of Contents
 
-- [Reading List: Recent Advances in Machine Theory of Mind](#reading-list-recent-advances-in-machine-theory-of-mind)
+- [Reading List: Advances in Machine Theory of Mind](#reading-list-advances-in-machine-theory-of-mind)
   - [Overview](#overview)
     - [Citation](#citation)
     - [Contributors](#contributors)
