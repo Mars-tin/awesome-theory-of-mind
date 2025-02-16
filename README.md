@@ -75,7 +75,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ### 1.1 Workshops
 
-- (ToM 2024) 2nd Workshop on Theory-of-Mind @ ICLR 2024. [**[Web]**](https://tomworkshop.github.io/)
+- (ToM 2024) 2nd Workshop on Theory-of-Mind @ ICML 2024. [**[Web]**](https://tomworkshop.github.io/)
 - (ToM 2023) 1st Workshop on Theory-of-Mind @ ICML 2023. [**[Web]**](https://tomworkshop.github.io/)
 
 ### 1.2 Talks and Tutorials
