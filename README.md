@@ -89,6 +89,7 @@ Welcome to contribute to our paper list or be a collaborator!
 
 ## 2. Machine ToM Surveys and Position Papers
 
+- (Preprint 2025) A Systematic Review on the Evaluation of Large Language Models in Theory of Mind Tasks [**[Paper]**](https://arxiv.org/abs/2502.08796)
 - (EMNLP Main 2024) Large Language Models: The Need for Nuance in Current Debates and a Pragmatic Perspective on Understanding [**[Paper]**](https://aclanthology.org/2023.emnlp-main.779/)
 - (EMNLP Findings 2023) Towards A Holistic Landscape of Situated Theory of Mind in Large Language Models.  [**[Paper]**](https://arxiv.org/abs/2310.19619)[**[Data]**](https://huggingface.co/datasets/sled-umich/2D-ATOMS)
 - (Preprint 2023) A Review on Machine Theory of Mind. [**[Paper]**](https://arxiv.org/abs/2303.11594)
