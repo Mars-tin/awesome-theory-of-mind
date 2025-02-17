@@ -25,7 +25,8 @@ If you find our work useful, please give us credit by citing:
 ### Contributors
 
 - **Main Contributors:** [Martin Ziqiao Ma](http://ziqiaoma.com/)
-- **Active Contributors:** [X. Angelo Huang](https://github.com/Flecart), [Jacob Sansom](https://jhsansom.github.io/), [Run Peng](https://roihn.github.io/), [Pony Zhang](https://www.ponyzhang.me/)
+- **Active Contributors:** [X. Angelo Huang](https://github.com/Flecart), [Karahan Sarıtaş](https://github.com/KarahanS), [Run Peng](https://roihn.github.io/)
+- **Previous Contributors:** [Jacob Sansom](https://jhsansom.github.io/), [Pony Zhang](https://www.ponyzhang.me/)
 
 ### How To Contribute
 
