@@ -745,7 +745,7 @@ Welcome to contribute to our paper list or be a collaborator!
 ### 4.2 New Benchmarks
 - (ACL 2024) ToMBench: Benchmarking Theory of Mind in Large Language Models [**[Paper]**](https://aclanthology.org/2024.acl-long.847/)
 - (ACL 2024) OpenToM: A Comprehensive Benchmark for Evaluating Theory-of-Mind Reasoning Capabilities of Large Language Models [**[Paper]**](https://aclanthology.org/2024.acl-long.466/)
-
+- (AAAI 2025) ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind [**[Paper]**](https://arxiv.org/abs/2501.08838)[**[Data]**](https://github.com/nttmdlab-nlp/ToMATO)
 
 ## 5. Computational Modeling of ToM
 
