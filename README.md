@@ -148,6 +148,7 @@ Welcome to contribute to our paper list or be a collaborator!
 - (Preprint 2022) Do Large Language Models Know what Humans Know? [**[Paper]**](https://arxiv.org/abs/2209.01515)
 - (Preprint 2022) Large Language Models Are Not Zero-shot Communicators. [**[Paper]**](https://arxiv.org/abs/2210.14986)[**[Web]**](https://lauraruis.github.io/2022/09/29/comm.html)[**[Code]**](https://github.com/LauraRuis/do-pigs-fly)[**[Data]**](https://huggingface.co/datasets/UCL-DARK/ludwig)
 - (EMNLP 2022) Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs. [**[Paper]**](https://arxiv.org/abs/2210.13312)
+- (EMNLP Findings 2026) Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind [**[Paper]**](https://arxiv.org/abs/2608.00261)
 
 ## 4. ToM Benchmarks and Platforms
 
